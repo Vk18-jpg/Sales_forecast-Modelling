@@ -42,5 +42,3 @@ The goal is to predict `Weekly_Sales` more accurately by leveraging historical s
 
 
 
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
